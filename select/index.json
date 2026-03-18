@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Capitão Pátria: O QUE EU QUISER",
+  "base_artist": "7 Minutoz",
+  "createdAt": "2026-03-18T13:47:17.577544Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tipo Capitão Patria",
+      "artist": "MHRAP",
+      "has_synced": true,
+      "path": "select/01_Tipo_Capitão_Patria_MHRAP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Capitão Pátria: O QUE EU QUISER",
+      "artist": "7 Minutoz",
+      "has_synced": true,
+      "path": "select/02_Capitão_Pátria__O_QUE_EU_QUISER_7_Minutoz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super (Capitão Pátria)",
+      "artist": "Kaito Rapper",
+      "has_synced": false,
+      "path": "select/03_Super_(Capitão_Pátria)_Kaito_Rapper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "O Único Homem no Céu (Capitão Pátria)",
+      "artist": "AniRap",
+      "has_synced": false,
+      "path": "select/04_O_Único_Homem_no_Céu_(Capitão_Pátria)_AniRap.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O Único Homem no Céu - Capitão Pátria",
+      "artist": "anirap",
+      "has_synced": false,
+      "path": "select/05_O_Único_Homem_no_Céu_-_Capitão_Pátria_anirap.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Único no Céu (Capitão Pátria Pt.2)",
+      "artist": "ALBK",
+      "has_synced": false,
+      "path": "select/06_Único_no_Céu_(Capitão_Pátria_Pt.2)_ALBK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Porque Eu Sou Um Deus (Capitão Pátria)",
+      "artist": "ALBK",
+      "has_synced": true,
+      "path": "select/07_Porque_Eu_Sou_Um_Deus_(Capitão_Pátria)_ALBK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "♪ Capitão Pátria | O Único Homem no Céu | AniRap (Prod. WB)",
+      "artist": "AniRap",
+      "has_synced": false,
+      "path": "select/08_♪_Capitão_Pátria___O_Único_Homem_no_Céu___AniRap_(Prod._WB)_AniRap.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "O Único Homem no Céu (Capitão Pátria)",
+      "artist": "anirap",
+      "has_synced": true,
+      "path": "select/09_O_Único_Homem_no_Céu_(Capitão_Pátria)_anirap.lrc"
+    }
+  ]
+}
