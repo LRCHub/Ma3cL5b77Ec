@@ -1,0 +1,128 @@
+# 7 Minutoz – Capitão Pátria: O QUE EU QUISER
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.13] Além da criação
+[00:03.74] Minha concepção
+[00:06.49] Foi imaculada como uma profecia
+[00:10.96] À grandeza destinado, gerado como um Messias
+[00:32.96] 
+[00:15.50] Pessoas no poder
+[00:17.64] Me querem controlado
+[00:21.69] Eles me querem fraco, calado
+[00:24.48] Como um deus, eu devia ser adorado
+[00:25.89] Deviam sacrificar os filhos, como Abrãao e Isaque
+[00:29.18] Se eu mandasse!
+[00:36.68] 
+[00:30.81] Pra você, eu sou um santo
+[00:32.44] Pra mim, você é um imbecil
+[00:33.98] Eu sou muito mais do que só um ser humano
+[00:35.97] Eu sei exatamente o que Jesus sentiu
+[00:53.97] 
+[00:37.96] Não cometo erros
+[00:39.92] Tudo que eu faço é por um bem maior
+[00:41.94] E com vocês, eu não pareço
+[00:44.12] É óbvio, porra, porque eu sou melhor!
+[01:02.62] 
+[00:45.97] Quero ver se você é homem pra falar
+[00:48.21] Que eu sou só um produto ruim
+[00:49.85] O preço dessa sua audácia será
+[00:51.58] Sua própria família ruir
+[01:03.58] 
+[00:53.43] Olhe bem para esse cadáver à luz do luar
+[00:55.80] Despeça-se do seu amigo
+[00:57.15] Isso não é mais um pedido, 'cê vai pular
+[00:59.46] A cereja do meu bolo caindo no abismo
+[01:17.96] 
+[01:01.41] Que país perfeito que era a mérica
+[01:03.28] Antes desses imigrantes
+[01:04.48] Abro cabeças, 'cê abre suas pernas
+[01:06.40] A gente transa por cima do sangue
+[01:22.90] 
+[01:08.31] Esse egoísmo imperdoável
+[01:10.50] É o meu presente de aniversário?
+[01:12.42] Inimigos mascarados de amigos
+[01:14.30] O buraco no seu peito é o desfecho por 'cê ter me traído
+[01:42.30] 
+[01:17.06] Um animal imundo
+[01:19.23] Pode ser impressionante, apesar de ser só um humano minúsculo
+[01:49.73] 
+[01:24.23] Garotos tentando brincar com a sorte
+[01:26.15] Acham que isso é poder?
+[01:27.80] Nosso destino é lutar até a morte
+[01:29.02] E no fim, só um de nós que vai sobreviver
+[01:49.52] 
+[01:31.95] Filho, agora que eu te encontrei
+[01:34.20] 'Cê não vai passar o que eu passei
+[01:35.94] A solidão de ser superior à todos que estão à sua volta
+[01:39.53] Quando se é tão forte como nós, as coisas quebram
+[01:41.88] E às vezes, essas coisas são as pessoas que amamos
+[01:43.52] Então não se culpe se por sua culpa sua mãe está morta
+[02:10.52] 
+[01:47.13] Infelizmente, há uma pequena parte em mim que ainda é humana
+[01:51.63] Uma parte suja, patética e enrugada
+[01:56.14] Sabe o que eu vou fazer?
+[01:58.52] Cortá-la fora como se fosse um câncer!
+[02:17.52] 
+[02:02.54] Quando forem implorar por suas vidas
+[02:05.98] Não clamem para Deus
+[02:09.61] Porque o único homem no céu
+[02:13.19] Sou eu!
+[02:16.69] 
+[02:17.98] Posso ser sua divindade
+[02:19.66] Amado por todos, me entregue sua fé
+[02:21.95] Ou destruir cada cidade
+[02:23.70] E humano de merda que se opuser
+[02:25.74] Vocês não podem fazer nada
+[02:30.11] E eu posso fazer o que eu quiser!
+[02:46.61] 
+[02:33.20] Porque eu sou perfeito e puro
+[02:35.06] Acima de todos e acima de tudo
+[02:37.13] Até meu povo entenderem que são eles ou a gente
+[02:38.83] Vai se derramar sangue e não existem inocentes
+[03:01.83] 
+[02:40.94] Traidores da minha raça não vão mais me intimidar
+[02:44.49] E se pra esse mundo inteiro quem eu sou de verdade você mostrar
+[02:47.54] Sim, eu perderia tudo
+[02:49.19] Mas depois disso, eu não teria nada mais pra perder
+[03:14.69] 
+[02:51.94] Primeiro eu derrubo a Casa Branca e o Pentágono
+[02:54.25] E vocês nem poderiam se defender
+[02:56.30] Apagaria Nova Iorque da porra do mapa
+[02:58.60] Só porque seria divertido
+[03:11.10] 
+[03:00.25] Saiba que eu prefiro ser amado, mas se tirar isso de mim
+[03:02.55] Não ligo de ser temido!
+[03:04.22] E não me chame de herói
+[03:06.24] Eu sou um deus vivo
+[03:15.74] 
+[03:07.96] Então me tema e me ame
+[03:10.05] Como pais e filhos
+[03:11.75] Quem foi seu herói na infância?
+[03:13.11] Mais um Soldier Boy só cumprindo deveres?
+[03:15.76] Mas eu não sou sua decepção nem sua imitação
+[03:18.20] Eu sou o upgrade!
+[03:26.70] 
+[03:19.79] Que eles ganhem mais poderes
+[03:21.56] Jamais serão como a gente
+[03:23.39] Mancha na capa, sangue quente!
+[03:25.68] Como um gole de leite!
+[03:36.68] 
+[03:27.42] Tem tanta coisa que eu quero fazer
+[03:29.53] E agora ninguém vai poder me deter
+[03:31.97] Eu estou
+[03:32.76] Livre!
+[03:35.76] 
+[03:34.84] Quando forem implorar por suas vidas
+[03:38.26] Não clamem para Deus
+[03:41.62] Porque o único homem no céu
+[03:45.46] Sou eu!
+[03:48.96] 
+[03:49.98] Posso ser sua divindade
+[03:52.06] Amado por todos, me entregue sua fé
+[03:54.06] Ou destruir cada cidade
+[03:55.64] E humano de merda que se opuser
+[03:57.75] Vocês não podem fazer nada
+[04:02.51] E eu posso fazer o que eu quiser!
+```
